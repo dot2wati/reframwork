@@ -1,0 +1,7 @@
+# 사용자 설정
+.local/
+.tmh/
+
+# .settings/ 필요, Process 동작시 설정 정보 포함되어 있음
+# .project/ 필요, 프로젝트 정보 포함되어있음
+# .objects/ 필요, object repository 정보 보함되어 있음음
